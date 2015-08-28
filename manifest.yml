@@ -1,0 +1,4 @@
+applications:
+- name: EventCorrelator
+  memory: 128m
+  host: VerizonIndia
