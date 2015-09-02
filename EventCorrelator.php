@@ -58,7 +58,7 @@ HTML;
   {
 	echo <<<HTML
 	<br><font size=7 $this->TITLESTYLE ><b>Event Correlator<br></b></font>
-	<br><font size=6 $this->TITLESTYLE ><b><br>@<br><br>VDSI India</b></font><br>
+	<br><font size=6 $this->TITLESTYLE ><b><br>@<br><br>VDSI</b></font><br>
 	<img src="https://cloud.githubusercontent.com/assets/13945804/9526123/2d9f1f3a-4d05-11e5-9026-e64bb6ce66c3.jpg">
 HTML;
   }
